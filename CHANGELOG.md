@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-14)
+## Unreleased (2025-07-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0ddde83`](https://github.com/stdlib-js/stdlib/commit/0ddde834e00e55c588e91d04f49e89e6ae6839c3) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`99c73a5`](https://github.com/stdlib-js/stdlib/commit/99c73a545c63afee7c010f8b4da4607c40af8b20) - **feat:** add support for accessor arrays and refactor `stats/base/stdevch` [(#7344)](https://github.com/stdlib-js/stdlib/pull/7344) _(by Gururaj Gurram, stdlib-bot)_
 -   [`4894ba9`](https://github.com/stdlib-js/stdlib/commit/4894ba93c712a1b42242c1c597afa9cdc811ad8c) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`17c4e41`](https://github.com/stdlib-js/stdlib/commit/17c4e41ad480a465b085afa0de85e34957861710) - **refactor:** update paths _(by Aayush Khanna)_
